@@ -12,6 +12,8 @@ Approach:
 
 3. Perform LDA analysis on the true ratings generated from the predictive model and visualize through Tableau dashboard.
 
+
+
 The dataset is from: https://www.yelp.com/dataset
 
 Tools used: pySpark, AWS, python, Databrick, Tableau
