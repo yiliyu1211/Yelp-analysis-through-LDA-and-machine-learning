@@ -8,7 +8,7 @@ Approach:
 
 1. Quantify the polarity score on sentence level on every comment to have an overall look of the satisfication of every restaurant.
 
-2. Perform TF-IDF methods on words in the comments and apply predictive model (SVM) to unify the different rating standards from different customers.
+2. Perform TF-IDF methods on words in the comments and apply predictive model (SVM) to unify the different rating standards from different customers segments.
 
 3. Perform LDA analysis on the true ratings generated from the predictive model and visualize through Tableau dashboard.
 
