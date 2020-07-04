@@ -16,7 +16,7 @@ Approach:
 
 The dataset is from: https://www.yelp.com/dataset
 
-Tools used: pySpark, AWS, python, Databrick, Tableau
+Tools used: PySpark, AWS EC2, Python, Databrick, Tableau
 
 Check out our demo of the interactive dashboard : [link](https://public.tableau.com/profile/xiangke.chen#!/vizhome/YelpReviewAnalysis_15758570841320/final)
 
