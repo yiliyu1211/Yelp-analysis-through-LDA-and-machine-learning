@@ -1,6 +1,8 @@
 # Yelp-analysis-through-LDA-and-machine-learning
 
 
+This project was held in University of Minnesota master in business analytics program 2019-20 and much thanks to my teammates, Yi Zhu, Boyang Wei, Lin Xu, Xiangke Chen and Yusha Wang.
+
 To analyze the customers' satisfication through comments on Yelp, I used svm predictive model and LDA to capture the hidden topics in positive or negative comments. Also, we built an interactive Tableau dashboard to visualize our results. 
 
 Approach:
